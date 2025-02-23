@@ -1,6 +1,6 @@
 # World Population Analysis
 
-This project analyzes world population data, explores key demographic factors, and builds machine learning models to predict population.
+This project analyzes world population data, explores key demographic factors, and builds machine learning models to predict population. Note: This README was written with AI assistance
 
 ## Workflow
 
